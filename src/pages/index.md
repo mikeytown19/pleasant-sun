@@ -266,4 +266,5 @@ seo:
       value: images/book-preview.png
       relativeUrl: true
 template: advanced
+title: Riverview
 ---
