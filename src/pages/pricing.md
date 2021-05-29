@@ -2,21 +2,21 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: Pick Your Package
     subtitle: Select the best fit for your budget below
     align: center
     padding_top: large
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Student
+      - title: Bronze
         subtitle: For college students and educators
         title_align: left
         content: |-
           ---
 
 
-          ### $9 eBook
+          ### $2,000
 
           * Digital edition
           * Basic tutorials and worksheets
@@ -28,7 +28,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Professional
+      - title: Silver
         subtitle: For marketers at companies
         title_align: left
         content: |-
@@ -48,7 +48,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
+      - title: Gold
         subtitle: For teams and companies
         title_align: left
         content: >-
