@@ -18,7 +18,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-    image: images/cow-hero.jpg
+    image: images/riverview12_tall.jpg
     image_alt: Marketing Playbook preview
     media_position: left
     media_width: fourty
@@ -72,7 +72,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/barn-inside.jpg
+        image: images/riverview7.jpg
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
@@ -149,9 +149,9 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/ranch-horse.jpg
+        image: images/riverview2_tall.jpg
         image_alt: Look inside Marketing Playbook
-        media_position: left
+        media_position: right
         media_width: fifty
     feature_padding_vert: small
     align: center
@@ -190,13 +190,13 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: primary
-    background_image: images/winter-outside.jpg
+    background_image: images/riverview8.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 20
   - type: features_section
     features:
-      - title: What’s Inside
+      - title: What’s We Offer
         subtitle: What we can do for you
         content: >-
           **Ut eu Lorem fugiat** Aliquip velit et do sunt enim Lorem nostrud
@@ -211,13 +211,7 @@ sections:
           tempor deserunt labore exercitation eu aliquip occaecat nisi. Ut
           pariatur aliquip do eu laboris tempor dolor id.”**
 
-
-
-          Ut eu Lorem fugiat Lorem eu. Aliquip velit et do sunt enim Lorem
-          nostrud amet culpa esse pariatur ea Lorem. Proident occaecat labore in
-          occaecat consequat tempor deserunt labore exercitation eu aliquip
-          occaecat nisi. Ut pariatur aliquip do eu laboris tempor dolor id.
-        image: images/wedding-inside.jpg
+        image: images/riverview9.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
         media_width: sixty
@@ -225,9 +219,9 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: Download the e-book today
+    title: Click here to book today
     actions:
-      - label: Get the e-book
+      - label: Call now
         url: /pricing
         style: primary
     actions_position: bottom
@@ -235,7 +229,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/wedding-inside.jpg
+    background_image: images/riverview1.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
