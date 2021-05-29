@@ -247,7 +247,7 @@ seo:
       value: Riverview Ranch
       keyName: property
     - name: 'og:image'
-      value: images/ranch.png
+      value: images/ranch-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -257,7 +257,7 @@ seo:
     - name: 'twitter:description'
       value: Riverview Ranch
     - name: 'twitter:image'
-      value: images/ranch.png
+      value: images/ranch-preview.png
       relativeUrl: true
 template: advanced
 title: Riverview Ranch
