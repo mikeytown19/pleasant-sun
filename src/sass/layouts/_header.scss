@@ -11,7 +11,9 @@
 }
 
 .navbar__logo {
-    
+    svg {
+        height: 20px;
+    }
 	img {
 		display: block;
 		max-height: 2.22222rem;
