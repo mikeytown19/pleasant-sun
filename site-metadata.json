@@ -124,6 +124,7 @@
         ],
         "content": ""
     },
-    "title": "Stackbit Book Theme",
-    "domain": "https://riverviewranch.netlify.app/"
+    "title": "Riverview Ranch ",
+    "domain": "https://riverviewranch.netlify.app/",
+    "favicon": "images/favicon-32x32.png"
 }

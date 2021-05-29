@@ -1,11 +1,16 @@
 ---
-title: Home
 sections:
   - type: hero_section
     title: Welcome to Riverview Ranch
     subtitle: Eiusmod esse velit laboris cillum eiusmod occaecat enim mollit qui.
-    content: |-
-      Consequat nulla cillum sit ea commodo ad quis voluptate Lorem in dolor quis duis. Amet qui reprehenderit occaecat exercitation in ea consequat officia dolor labore commodo sint. Aute cillum irure fugiat minim cillum ullamco. Culpa est est nostrud exercitation anim ea adipisicing est adipisicing. Laborum commodo deserunt cupidatat veniam dolore nostrud ad veniam eu. Consectetur sit ex sint cupidatat. Est fugiat veniam consequat consectetur ad ea exercitation exercitation fugiat anim tempor.
+    content: >-
+      Consequat nulla cillum sit ea commodo ad quis voluptate Lorem in dolor
+      quis duis. Amet qui reprehenderit occaecat exercitation in ea consequat
+      officia dolor labore commodo sint. Aute cillum irure fugiat minim cillum
+      ullamco. Culpa est est nostrud exercitation anim ea adipisicing est
+      adipisicing. Laborum commodo deserunt cupidatat veniam dolore nostrud ad
+      veniam eu. Consectetur sit ex sint cupidatat. Est fugiat veniam consequat
+      consectetur ad ea exercitation exercitation fugiat anim tempor.
     actions:
       - label: Book now
         url: /pricing
@@ -22,7 +27,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: 'Our trusted partners'
+    title: Our trusted partners
     align: center
     grid_items:
       - image: images/logo-1.svg
@@ -60,7 +65,6 @@ sections:
           - Nunc dignissim risus id metus.
           - Cras ornare tristique elit.
           - Vivamus vestibulum ntulla nec ante.
-
         actions:
           - label: Book Now
             url: /thank-you
@@ -75,37 +79,33 @@ sections:
     feature_padding_vert: small
     align: center
     background_color: none
-  # - type: features_section
-  #   features:
-  #     - title: |-
-  #         “This book is inspiring and practical. It’s thought-provoking and full
-  #         of examples which definitely motivates me”
-  #       subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
-  #       image: images/hilary-ouse.png
-  #       image_alt: Brandon Guidelines
-  #       media_position: left
-  #       media_width: thirty-three
-  #   feature_padding_vert: small
-  #   background_color: primary
-  #   background_image: images/background-2.jpg
-  #   background_image_repeat: no-repeat
-  #   background_image_size: cover
-  #   background_image_opacity: 10
   - type: grid_section
     title: Riverview Ranch Events
     grid_items:
-      - content: |-
+      - content: >-
           ### Weddings
 
-          Qui quis deserunt eu eiusmod ut non et nulla laboris ex consectetur in. Ex exercitation consequat et reprehenderit elit eiusmod cupidatat fugiat reprehenderit. Nisi proident sunt mollit labore et amet qui. Esse ullamco do ad dolore in commodo in cillum cupidatat est Lorem nostrud. Aliqua occaecat fugiat ipsum velit aliquip. Est duis exercitation ad cillum commodo ut mollit anim eiusmod occaecat cillum.
+
+          Qui quis deserunt eu eiusmod ut non et nulla laboris ex consectetur
+          in. Ex exercitation consequat et reprehenderit elit eiusmod cupidatat
+          fugiat reprehenderit. Nisi proident sunt mollit labore et amet qui.
+          Esse ullamco do ad dolore in commodo in cillum cupidatat est Lorem
+          nostrud. Aliqua occaecat fugiat ipsum velit aliquip. Est duis
+          exercitation ad cillum commodo ut mollit anim eiusmod occaecat cillum.
       - content: >-
           ### Work Meetings
 
-          Esse ullamco do ad dolore in commodo in cillum cupidatat est Lorem nostrud. Aliqua occaecat fugiat ipsum velit aliquip. Est duis exercitation ad cillum commodo ut mollit anim eiusmod occaecat cillum..
-      - content: |-
+          Esse ullamco do ad dolore in commodo in cillum cupidatat est Lorem
+          nostrud. Aliqua occaecat fugiat ipsum velit aliquip. Est duis
+          exercitation ad cillum commodo ut mollit anim eiusmod occaecat
+          cillum..
+      - content: >-
           ### Church Events
 
-          Qui quis deserunt eu eiusmod ut non et nulla laboris ex consectetur in. Ex exercitation consequat et reprehenderit elit eiusmod cupidatat fugiat reprehenderit. Nisi proident sunt mollit labore et amet qui.
+
+          Qui quis deserunt eu eiusmod ut non et nulla laboris ex consectetur
+          in. Ex exercitation consequat et reprehenderit elit eiusmod cupidatat
+          fugiat reprehenderit. Nisi proident sunt mollit labore et amet qui.
       - content: |-
           ### Parties
 
@@ -197,15 +197,26 @@ sections:
   - type: features_section
     features:
       - title: What’s Inside
-        subtitle: 'What we can do for you'
-        content: |-
-          **Ut eu Lorem fugiat** Aliquip velit et do sunt enim Lorem nostrud amet culpa esse pariatur ea Lorem. Proident occaecat labore in occaecat consequat tempor deserunt labore exercitation eu aliquip occaecat nisi. Ut pariatur aliquip do eu laboris tempor dolor id.
+        subtitle: What we can do for you
+        content: >-
+          **Ut eu Lorem fugiat** Aliquip velit et do sunt enim Lorem nostrud
+          amet culpa esse pariatur ea Lorem. Proident occaecat labore in
+          occaecat consequat tempor deserunt labore exercitation eu aliquip
+          occaecat nisi. Ut pariatur aliquip do eu laboris tempor dolor id.
 
 
-          > **Aliquip velit et do sunt enim Lorem nostrud amet culpa esse pariatur ea Lorem. Proident occaecat labore in occaecat consequat tempor deserunt labore exercitation eu aliquip occaecat nisi. Ut pariatur aliquip do eu laboris tempor dolor id.”**
+
+          > **Aliquip velit et do sunt enim Lorem nostrud amet culpa esse
+          pariatur ea Lorem. Proident occaecat labore in occaecat consequat
+          tempor deserunt labore exercitation eu aliquip occaecat nisi. Ut
+          pariatur aliquip do eu laboris tempor dolor id.”**
 
 
-          Ut eu Lorem fugiat Lorem eu. Aliquip velit et do sunt enim Lorem nostrud amet culpa esse pariatur ea Lorem. Proident occaecat labore in occaecat consequat tempor deserunt labore exercitation eu aliquip occaecat nisi. Ut pariatur aliquip do eu laboris tempor dolor id.
+
+          Ut eu Lorem fugiat Lorem eu. Aliquip velit et do sunt enim Lorem
+          nostrud amet culpa esse pariatur ea Lorem. Proident occaecat labore in
+          occaecat consequat tempor deserunt labore exercitation eu aliquip
+          occaecat nisi. Ut pariatur aliquip do eu laboris tempor dolor id.
         image: images/wedding-inside.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
@@ -229,8 +240,8 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Book Theme
-  description: Riverview Ranch
+  title: Riverview Ranch
+  description: The preview of the Book theme
   extra:
     - name: 'og:type'
       value: website
@@ -255,4 +266,5 @@ seo:
       value: images/ranch.png
       relativeUrl: true
 template: advanced
+title: Riverview Ranch
 ---
