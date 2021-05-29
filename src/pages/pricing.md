@@ -16,11 +16,12 @@ sections:
           ---
 
 
-          ### $2,000
+          ### Weekday night
 
-          * Digital edition
-          * Basic tutorials and worksheets
-          * Access to community group
+          - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+          - Aliquam tincidunt mauris eu risus.
+          - Vestibulum auctor dapibus neque.
+          - Nunc dignissim risus id metus.
         content_align: left
         actions:
           - label: Start with Personal
@@ -34,13 +35,12 @@ sections:
         content: |-
           ---
 
-          ### $19 Print + eBook
+          ### Weekend Morning or Night
 
-          * Print + eBook editions
-          * Advanced tutorials
-          * Monthly webinars
-          * 1hr consultation
-          * eMail feedback session
+          - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+          - Aliquam tincidunt mauris eu risus.
+          - Vestibulum auctor dapibus neque.
+          - Nunc dignissim risus id metus.
         content_align: left
         actions:
           - label: Start with Professional
@@ -54,10 +54,13 @@ sections:
         content: >-
           ---
 
-          ### $49 eBook
+          ### Full Day
 
-          * 3 eBooks * Monthly webinars * Bonus chapter per vertical * Live Q&A
-          session * Advanced worksheets
+
+            - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+            - Aliquam tincidunt mauris eu risus.
+            - Vestibulum auctor dapibus neque.
+            - Nunc dignissim risus id metus.
         content_align: left
         actions:
           - label: Start with Business
