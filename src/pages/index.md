@@ -230,29 +230,29 @@ sections:
     background_image_opacity: 10
 seo:
   title: Stackbit Book Theme
-  description: The preview of the Book theme
+  description: Riverview Ranch
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Book Theme
+      value: Riverview Ranch
       keyName: property
     - name: 'og:description'
-      value: The preview of the Book theme
+      value: Riverview Ranch
       keyName: property
     - name: 'og:image'
-      value: images/book-preview.png
+      value: images/ranch.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Book Theme
+      value: Riverview Ranch
     - name: 'twitter:description'
-      value: The preview of the Book theme
+      value: Riverview Ranch
     - name: 'twitter:image'
-      value: images/book-preview.png
+      value: images/ranch.png
       relativeUrl: true
 template: advanced
 ---
