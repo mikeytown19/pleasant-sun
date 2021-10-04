@@ -68,7 +68,7 @@ sections:
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
-        subtitle: Authentic ranch. Outdoor NatureIndoor Charm
+        subtitle: Authentic ranch. Outdoor Nature Indoor Charm
     feature_padding_vert: small
     align: center
     background_color: none
