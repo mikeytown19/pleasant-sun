@@ -97,13 +97,15 @@ sections:
           ### Parties
 
            Birthdays, Anniversaries, Reunions, get-togethers, Showers; you come up with it and we will be there for you. 
-      - content: >-
+      - content: >
           ### Holiday Gatherings
 
 
-          Google, Facebook, TikTok, LinkedIn — what should you use, and how? And
-          how do you know that it's actually working? Build a social media
-          strategy like a pro.
+          The perfect place with charm, warmth and views, to host your family
+          holiday dinner or gathering.  Bring your own food, prepare meals with
+          our custom professional kitchen, or have your meals catered by us or a
+          vendor of your choice!  Memories will be made with your family on our
+          beautiful property.
       - content: |-
           ### Custom
 
