@@ -106,12 +106,13 @@ sections:
           our custom professional kitchen, or have your meals catered by us or a
           vendor of your choice!  Memories will be made with your family on our
           beautiful property.
-      - content: |-
-          ### Custom
+      - content: >
+          ### Retreats
 
-          There is no shortage of analytics tools for marketing campaigns —
-          email platforms, data centers, campaign dashboards and app
-          attribution... How to choose the right tools that will work for you.
+
+          Bring together you workforce, clients, employees, create a retreat
+          that you imagine for the ultimate rest and relaxation, throw in some
+          awesome meals created by you or catered by our staff!
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
