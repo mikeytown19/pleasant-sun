@@ -87,8 +87,8 @@ sections:
 
 
           Book your work meetings here for a peaceful clarity of mind. with
-          views from all windows.   Have a lunch catered by us while meeting as
-          well!
+          views from east to west through our enchanting all-windowed rooms.  
+          Have a lunch catered by us while meeting as well!
       - content: |
           ### Family Events/Reunions
 
