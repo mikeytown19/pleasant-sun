@@ -32,15 +32,34 @@ sections:
       - title: Silver
         subtitle: For marketers at companies
         title_align: left
-        content: |-
-          ---
+        content: >+
+          ***
 
-          ### Weekend Morning or Night
 
-          - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-          - Aliquam tincidunt mauris eu risus.
-          - Vestibulum auctor dapibus neque.
-          - Nunc dignissim risus id metus.
+          ### Half Day Pricing
+
+
+          7am-2pm/ 3pm-10pm
+
+
+          Price includes access to indoor professional kitchen, indoor and
+          outdoor grounds, choice of arch, and select decorations.
+
+
+          Mon-Thurs $2,000
+
+
+          Friday $2500
+
+
+          Sat $3,000
+
+
+          ​
+
+
+          Prices subject to change
+
         content_align: left
         actions:
           - label: Start with Professional
