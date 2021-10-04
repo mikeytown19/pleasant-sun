@@ -3,14 +3,7 @@ sections:
   - type: hero_section
     title: Welcome to Riverview Ranch
     subtitle: Northern Utahs Premier Gathering Place & Retreat
-    content: >-
-      Consequat nulla cillum sit ea commodo ad quis voluptate Lorem in dolor
-      quis duis. Amet qui reprehenderit occaecat exercitation in ea consequat
-      officia dolor labore commodo sint. Aute cillum irure fugiat minim cillum
-      ullamco. Culpa est est nostrud exercitation anim ea adipisicing est
-      adipisicing. Laborum commodo deserunt cupidatat veniam dolore nostrud ad
-      veniam eu. Consectetur sit ex sint cupidatat. Est fugiat veniam consequat
-      consectetur ad ea exercitation exercitation fugiat anim tempor.
+    content: "\n\n60 private acres of ranch-style atmosphere with stunning views and close to town,\_27 min north of the SLC airport and adjacent to hwy. #84 (between Layton and Ogden) is the private River View Ranch.\_ A perfect place for: family gatherings, meetings, weddings, life celebrations, or whatever you can think to create.\_ Plenty of guest/rv parking plus 4000 sf of ranch style atmosphere awaits your unforgettable experience.\_ Have your meals catered, or use our well-equipped professional kitchen to feed your herd.\n\nNOTE:\_ Please yield to wildlife and livestock.\_\_\n\n\_At River View Ranch, we’re in the business of hosting stunning weddings and special events. Since our opening in 2021,\_we’ve given our clients the power to customize every aspect of their event, from the decor and floral arrangements to the menu and entertainment. We’ll make sure the special day you’ve envisioned becomes a reality. Contact us to book your venue today. We can’t wait to host you.\n"
     actions:
       - label: Book now
         url: /pricing
