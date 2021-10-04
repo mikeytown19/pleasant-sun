@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Package
+    title: Pricing
     subtitle: Select the best fit for your budget below
     align: center
     padding_top: large
