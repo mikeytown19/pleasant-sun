@@ -161,12 +161,21 @@ sections:
           *   Outdoor Bose speaker system
           *   Cordless Microphones
           *
-      - content: |-
-          #### Designers
-            - Vestibulum auctor dapibus neque.
-            - Nunc dignissim risus id metus.
-            - Cras ornare tristique elit.
-            - Vivamus vestibulum ntulla nec ante.
+      - content: >+
+          #### Catering
+
+
+          *   We offer vendors with impeccable tase and the creativity to make
+          your meals unforgettable.
+
+          *   Bring in your own caterer as well is desired.
+
+          *   We offer a select list of Vendors for your choosing.
+
+          *   Menus upon request
+
+          *   Special accommodations can be made for any meal.
+
       - content: |-
           #### Family Events
             - Vestibulum auctor dapibus neque.
