@@ -2,7 +2,7 @@
 sections:
   - type: hero_section
     title: Welcome to Riverview Ranch
-    subtitle: Eiusmod esse velit laboris cillum eiusmod occaecat enim mollit qui.
+    subtitle: "Northern Utahs Premier\_ Gathering Place& Retreat"
     content: >-
       Consequat nulla cillum sit ea commodo ad quis voluptate Lorem in dolor
       quis duis. Amet qui reprehenderit occaecat exercitation in ea consequat
@@ -210,7 +210,6 @@ sections:
           pariatur ea Lorem. Proident occaecat labore in occaecat consequat
           tempor deserunt labore exercitation eu aliquip occaecat nisi. Ut
           pariatur aliquip do eu laboris tempor dolor id.”**
-
         image: images/riverview9.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
