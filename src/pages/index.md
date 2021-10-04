@@ -176,12 +176,17 @@ sections:
 
           *   Special accommodations can be made for any meal.
 
-      - content: |-
+      - content: |+
           #### Family Events
-            - Vestibulum auctor dapibus neque.
-            - Nunc dignissim risus id metus.
-            - Cras ornare tristique elit.
-            - Vivamus vestibulum ntulla nec ante.
+
+          *   Family parties
+          *   Birthdays
+          *   Baby/wedding showers
+          *   Anniversaries
+          *   Dinners
+          *   Reunions
+          *   Book now to bring your family gatherings together.
+
       - content: |-
           #### Partiese
             - Aliquam tincidunt mauris eu risus.
