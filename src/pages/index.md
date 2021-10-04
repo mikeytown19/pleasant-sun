@@ -49,7 +49,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     features:
-      - title: What's at Riverview.
+      - title: What's at River View
         content: |
           *   Weddings
           *   Retreats
