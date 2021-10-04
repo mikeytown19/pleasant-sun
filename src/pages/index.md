@@ -122,9 +122,7 @@ sections:
   - type: features_section
     features:
       - title: Riverview Ranch
-        subtitle: >-
-          River View Ranch is an event center like no other, with breathtaking
-          views and charm galore.
+        subtitle: Ranch History
         content: >
           *
 
