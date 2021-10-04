@@ -71,6 +71,7 @@ sections:
     feature_padding_vert: small
     align: center
     background_color: none
+    subtitle: 'Authentic '
   - type: grid_section
     title: Riverview Ranch Events
     grid_items:
