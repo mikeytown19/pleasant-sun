@@ -209,7 +209,7 @@ sections:
   - type: features_section
     features:
       - title: What to expect
-        subtitle: What we can do for you
+        subtitle: Natural charm and stunning views
         content: >
           **Reserve your next event/retreat at riverView Ranch for memories to
           last a lifetime.**
