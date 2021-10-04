@@ -77,6 +77,9 @@ sections:
           ### Full Day
 
 
+          11am -11pm
+
+
           Price includes access to indoor professional kitchen, indoor and
           outdoor grounds, choice of arch, and select decorations.
 
