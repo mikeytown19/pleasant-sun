@@ -187,12 +187,16 @@ sections:
           *   Reunions
           *   Book now to bring your family gatherings together.
 
-      - content: |-
-          #### Partiese
-            - Aliquam tincidunt mauris eu risus.
-            - Vestibulum auctor dapibus neque.
-            - Nunc dignissim risus id metus.
-            - Cras ornare tristique elit.
+      - content: |+
+          #### PartiesPartiese
+
+          *   Surprise parties
+          *   Dances
+          *   Celebrations
+          *   Graduations
+          *   Reunions with friends and family
+          *   What ever you can think up, we can help with your vision!
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
