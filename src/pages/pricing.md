@@ -74,7 +74,7 @@ sections:
           ***
 
 
-          ### Full Day
+          ### Full Day Pricing
 
 
           11am -11pm
