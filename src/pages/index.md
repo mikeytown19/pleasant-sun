@@ -93,12 +93,10 @@ sections:
           ### Family Events/Reunions
 
            Gather your family to explore the terrain, take in the views, enjoy siting wildlife, walk the trails, ride your 4x4's, hike down to the pond, make meals using the professional kitchen or have your meals catered by us if you'd like!
-      - content: |-
+      - content: |
           ### Parties
 
-          What you should be writing about, where it should be published, who
-          should read it, and what difference does it make. A comprehensive
-          guide to content marketing.
+           Birthdays, Anniversaries, Reunions, get-togethers, Showers; you come up with it and we will be there for you. 
       - content: >-
           ### Holiday Gatherings
 
