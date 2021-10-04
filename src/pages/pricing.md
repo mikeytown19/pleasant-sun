@@ -3,7 +3,6 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pricing
-    subtitle: Select the best fit for your budget below
     align: center
     padding_top: large
     padding_bottom: small
