@@ -122,7 +122,9 @@ sections:
   - type: features_section
     features:
       - title: Riverview Ranch
-        subtitle: Becuase <3
+        subtitle: >-
+          River View Ranch is an event centerlike no other, with reathtaking
+          views and chrm galore.
         content: |-
           - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
           - Aliquam tincidunt mauris eu risus.
