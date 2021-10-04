@@ -50,13 +50,18 @@ sections:
   - type: features_section
     features:
       - title: What's at Riverview.
-        content: |-
-          - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-          - Aliquam tincidunt mauris eu risus.
-          - Vestibulum auctor dapibus neque.
-          - Nunc dignissim risus id metus.
-          - Cras ornare tristique elit.
-          - Vivamus vestibulum ntulla nec ante.
+        content: |
+          *   Weddings
+          *   Retreats
+          *   Parties
+          *   Gatherings
+          *   Memorials
+          *   Get Aways
+          *   Reunions
+          *   Site Seeing
+          *   Views of Winding Weber river 
+          *   Ponds
+          *   Trails
         actions:
           - label: Book Now
             url: /thank-you
