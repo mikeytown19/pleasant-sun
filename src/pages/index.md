@@ -123,8 +123,8 @@ sections:
     features:
       - title: Riverview Ranch
         subtitle: >-
-          River View Ranch is an event centerlike no other, with reathtaking
-          views and chrm galore.
+          River View Ranch is an event center like no other, with breathtaking
+          views and charm galore.
         content: |-
           - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
           - Aliquam tincidunt mauris eu risus.
