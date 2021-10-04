@@ -125,13 +125,13 @@ sections:
         subtitle: >-
           River View Ranch is an event center like no other, with breathtaking
           views and charm galore.
-        content: |-
-          - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-          - Aliquam tincidunt mauris eu risus.
-          - Vestibulum auctor dapibus neque.
-          - Nunc dignissim risus id metus.
-          - Cras ornare tristique elit.
-          - Vivamus vestibulum ntulla nec ante.
+        content: >
+          *
+
+          *   Take a nature walk and spot wildlife, take in the scenery and
+          rejuvenate.
+
+          *    
         actions:
           - label: Book Now
             url: /thank-you
