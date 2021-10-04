@@ -12,16 +12,7 @@ sections:
       - title: Bronze
         subtitle: For college students and educators
         title_align: left
-        content: |-
-          ---
-
-
-          ### Weekday night
-
-          - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-          - Aliquam tincidunt mauris eu risus.
-          - Vestibulum auctor dapibus neque.
-          - Nunc dignissim risus id metus.
+        content: "***\n\n### Hourly Pricing\n\n3 hour minimum\n\nPrice includes access to indoor professional kitchen, indoor and outdoor grounds, choice of arch, and select decorations.\n\nMon-Thurs 7am-2pm $300 /hr.\n\nMon-Thurs 3pm-10pm\_$350hr.\n\nSelect Weekend hours $400/hr.\n\n​\n\nPrices subject to change\n"
         content_align: left
         actions:
           - label: Start with Personal
