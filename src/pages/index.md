@@ -144,14 +144,23 @@ sections:
   - type: grid_section
     title: What we offer.
     grid_items:
-      - content: |-
-          #### Wedings
-            - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-            - Aliquam tincidunt mauris eu risus.
-            - Vestibulum auctor dapibus neque.
-            - Nunc dignissim risus id metus.
-            - Cras ornare tristique elit.
-            - Vivamus vestibulum ntulla nec ante.
+      - content: |
+          #### Weddings
+
+          *   Weddings include the following:
+          *   Access to our Indoor and outdoor grounds
+          *   Full use of our professional kitchen
+          *   Full use of our walk-in fridge and walk-in freezer
+          *   Tables and chairs for up to 60 people
+          *   Wooden arch
+          *   Select wedding decorations
+          *   Parking lot with overflow parking
+          *   Brides room
+          *   Grooms room (Coming soon.)
+          *   In-house professional speaker system
+          *   Outdoor Bose speaker system
+          *   Cordless Microphones
+          *
       - content: |-
           #### Designers
             - Vestibulum auctor dapibus neque.
