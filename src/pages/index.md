@@ -124,12 +124,9 @@ sections:
       - title: Riverview Ranch
         subtitle: Ranch History
         content: >
-          *
-
-          *   Take a nature walk and spot wildlife, take in the scenery and
-          rejuvenate.
-
-          *    
+          RiverView Ranch is set up on a thriving ranch that was also once a
+          popular golf-driving range and gorgeous  manicured 18 hole putting
+          course.  The beauty of nature can be seen from sunrise to sundown
         actions:
           - label: Book Now
             url: /thank-you
