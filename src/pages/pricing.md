@@ -51,16 +51,30 @@ sections:
       - title: Gold
         subtitle: For teams and companies
         title_align: left
-        content: >-
-          ---
+        content: >
+          ***
+
 
           ### Full Day
 
 
-            - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-            - Aliquam tincidunt mauris eu risus.
-            - Vestibulum auctor dapibus neque.
-            - Nunc dignissim risus id metus.
+          Price includes access to indoor professional kitchen, indoor and
+          outdoor grounds, choice of arch, and select decorations.
+
+
+          Mon-Thurs $3,000
+
+
+          Friday $4,000
+
+
+          Sat $4,500
+
+
+          ​
+
+
+          Prices subject to change
         content_align: left
         actions:
           - label: Start with Business
