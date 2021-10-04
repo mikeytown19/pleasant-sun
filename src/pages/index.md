@@ -2,7 +2,7 @@
 sections:
   - type: hero_section
     title: Welcome to Riverview Ranch
-    subtitle: "Northern Utahs Premier\_ Gathering Place& Retreat"
+    subtitle: Northern Utahs Premier Gathering Place & Retreat
     content: >-
       Consequat nulla cillum sit ea commodo ad quis voluptate Lorem in dolor
       quis duis. Amet qui reprehenderit occaecat exercitation in ea consequat
