@@ -210,18 +210,22 @@ sections:
     features:
       - title: What We Offer
         subtitle: What we can do for you
-        content: >-
-          **Ut eu Lorem fugiat** Aliquip velit et do sunt enim Lorem nostrud
-          amet culpa esse pariatur ea Lorem. Proident occaecat labore in
-          occaecat consequat tempor deserunt labore exercitation eu aliquip
-          occaecat nisi. Ut pariatur aliquip do eu laboris tempor dolor id.
+        content: >
+          **Reserve your next event/retreat at riverView Ranch for memories to
+          last a lifetime.**
 
 
+          **Enjoy our beautiful gardens, cascading water and quaint bridges for
+          the perfect setting**
 
-          > **Aliquip velit et do sunt enim Lorem nostrud amet culpa esse
-          pariatur ea Lorem. Proident occaecat labore in occaecat consequat
-          tempor deserunt labore exercitation eu aliquip occaecat nisi. Ut
-          pariatur aliquip do eu laboris tempor dolor id.”**
+
+          *   **Spacious vaulted indoor gathering room**
+
+
+          *   **Enjoy views from indoor or outdoor spacious patio deck**
+
+
+          *   **Make use of our large professional kitchen**
         image: images/riverview9.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
