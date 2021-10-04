@@ -89,13 +89,10 @@ sections:
           Book your work meetings here for a peaceful clarity of mind. with
           views from all windows.   Have a lunch catered by us while meeting as
           well!
-      - content: >-
-          ### Church Events
+      - content: |
+          ### Family Events/Reunions
 
-
-          Qui quis deserunt eu eiusmod ut non et nulla laboris ex consectetur
-          in. Ex exercitation consequat et reprehenderit elit eiusmod cupidatat
-          fugiat reprehenderit. Nisi proident sunt mollit labore et amet qui.
+           Gather your family to explore the terrain, take in the views, enjoy siting wildlife, walk the trails, ride your 4x4's, hike down to the pond, make meals using the professional kitchen or have your meals catered by us if you'd like!
       - content: |-
           ### Parties
 
