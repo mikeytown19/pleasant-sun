@@ -208,7 +208,7 @@ sections:
     background_image_opacity: 20
   - type: features_section
     features:
-      - title: What We Offer
+      - title: What to expect
         subtitle: What we can do for you
         content: >
           **Reserve your next event/retreat at riverView Ranch for memories to
