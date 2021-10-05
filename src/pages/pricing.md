@@ -8,8 +8,7 @@ sections:
     padding_bottom: small
     subtitle: >-
       Book now for future dates and save $1000 off your full day
-      booking.*                                                     *Any future
-      booking reserved by Dec 30 2021 (must include down payment.)
+      booking.*             
   - type: grid_section
     grid_items:
       - title: Bronze
