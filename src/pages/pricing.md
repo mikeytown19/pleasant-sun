@@ -106,8 +106,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
