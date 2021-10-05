@@ -24,7 +24,9 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Silver
-        subtitle: For marketers at companies
+        subtitle: >-
+          For those not needing a full day and wanting to save a little on the
+          price.
         title_align: left
         content: >+
           ***
