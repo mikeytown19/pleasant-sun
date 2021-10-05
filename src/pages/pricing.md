@@ -64,7 +64,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Gold
-        subtitle: For teams and companies
+        subtitle: For a full day and best price per hour.
         title_align: left
         content: >
           ***
