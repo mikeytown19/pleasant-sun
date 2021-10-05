@@ -13,7 +13,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Bronze
-        subtitle: work out the perfect time-frame
+        subtitle: Work out the perfect time-frame
         title_align: left
         content: "***\n\n### Hourly Pricing\n\n3 hour minimum\n\nPrice includes access to indoor professional kitchen, indoor and outdoor grounds, choice of arch, and select decorations.\n\nMon-Thurs 7am-2pm $300 /hr.\n\nMon-Thurs 3pm-10pm\_$350hr.\n\nSelect Weekend hours $400/hr.\n\n​\n\nPrices subject to change\n"
         content_align: left
