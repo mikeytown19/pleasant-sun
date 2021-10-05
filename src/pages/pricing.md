@@ -6,7 +6,9 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    subtitle: Book now for future dates and save $1000 off your full day booking.*
+    subtitle: >-
+      Book now for future dates and save $1000 off your full day
+      booking.*.                   
   - type: grid_section
     grid_items:
       - title: Bronze
